@@ -1,0 +1,39 @@
+using System;
+using System.Net.Sockets;
+using System.Threading.Tasks;
+using NModbus;
+
+class Program
+{
+    static async Task Main()
+    {
+        string ip = "192.168.1.100";
+        int port = 502;
+
+        using (TcpClient client = new TcpClient())
+        {
+            await client.ConnectAsync(ip, port);
+            var factory = new ModbusFactory();
+            var master = factory.CreateMaster(client);
+
+            while (true)
+            {
+                // Đọc bất đồng bộ
+                var coils = await Task.Run(() => master.ReadCoils(1, 0, 10));
+                Console.WriteLine("Coils: " + string.Join(", ", coils));
+
+                if (!CanRequestAgain(coils))
+                    break;
+
+                // Đọc tiếp khi nhận xong dữ liệu
+                var regs = await Task.Run(() => master.ReadHoldingRegisters(1, 0, 10));
+                Console.WriteLine("Registers: " + string.Join(", ", regs));
+            }
+        }
+    }
+
+    static bool CanRequestAgain(bool[] data)
+    {
+        return true;
+    }
+}

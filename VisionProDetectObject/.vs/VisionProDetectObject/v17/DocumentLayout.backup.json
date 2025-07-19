@@ -1,0 +1,648 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE3372-00A3-42EE-8FEF-D74452AA622C}|Camera\\Camera.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\camera\\cameraservicegentl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE3372-00A3-42EE-8FEF-D74452AA622C}|Camera\\Camera.csproj|solutionrelative:camera\\cameraservicegentl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE3372-00A3-42EE-8FEF-D74452AA622C}|Camera\\Camera.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\camera\\icamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE3372-00A3-42EE-8FEF-D74452AA622C}|Camera\\Camera.csproj|solutionrelative:camera\\icamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE3372-00A3-42EE-8FEF-D74452AA622C}|Camera\\Camera.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\camera\\toolblockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE3372-00A3-42EE-8FEF-D74452AA622C}|Camera\\Camera.csproj|solutionrelative:camera\\toolblockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\views\\viewimageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\views\\viewimageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\views\\showresultimageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\views\\showresultimageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|c:\\users\\dell\\source\\repos\\visionprowpf\\visionprodetectobject\\visionprodetectobject\\viewmodels\\viewimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\viewmodels\\viewimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\viewmodels\\editprogramviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\viewmodels\\editprogramviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\views\\viewimageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\views\\viewimageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\views\\mainview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\views\\mainview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\views\\editprogramview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\views\\editprogramview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VisionProDetectObject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\views\\editprogramview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\views\\editprogramview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\camera\\classcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\camera\\classcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\views\\modbusview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\views\\modbusview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\obj\\x64\\Debug\\Views\\MainView.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisionProDetectObject\\obj\\x64\\Debug\\Views\\MainView.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\AppData\\Local\\SourceServer\\130ebdbee0c1d672f3711fa37f015c1d8d7cd132013c36dc4e614df60922cf4d\\src\\Registration\\InternalRegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\viewmodels\\mobusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\viewmodels\\mobusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\modbus\\modbustcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\modbus\\modbustcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\modbus\\modbuspolling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\modbus\\modbuspolling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\modbus\\modbusdataeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\modbus\\modbusdataeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\camera\\tool\\classtoolblockloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\camera\\tool\\classtoolblockloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE3372-00A3-42EE-8FEF-D74452AA622C}|Camera\\Camera.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\camera\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{DBCE3372-00A3-42EE-8FEF-D74452AA622C}|Camera\\Camera.csproj|solutionrelative:camera\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE3372-00A3-42EE-8FEF-D74452AA622C}|Camera\\Camera.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\camera\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE3372-00A3-42EE-8FEF-D74452AA622C}|Camera\\Camera.csproj|solutionrelative:camera\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\image\\logo_idea_full_l.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\image\\logo_idea_full_l.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\helper\\saveimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\helper\\saveimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\views\\modbusview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\views\\modbusview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E04DA0-C7CE-42F3-A47A-9B3A4CF9B2D2}|MobusTCP\\MobusTCP.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\mobustcp\\modbusclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E04DA0-C7CE-42F3-A47A-9B3A4CF9B2D2}|MobusTCP\\MobusTCP.csproj|solutionrelative:mobustcp\\modbusclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\camera\\tool\\classcogdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\camera\\tool\\classcogdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\obj\\x64\\Debug\\Views\\modbusView.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisionProDetectObject\\obj\\x64\\Debug\\Views\\modbusView.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E04DA0-C7CE-42F3-A47A-9B3A4CF9B2D2}|MobusTCP\\MobusTCP.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\mobustcp\\modbusdataeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E04DA0-C7CE-42F3-A47A-9B3A4CF9B2D2}|MobusTCP\\MobusTCP.csproj|solutionrelative:mobustcp\\modbusdataeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\visionprodetectobject\\views\\showresultimageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EF606-7454-439D-AA7E-2FD7C67CDC71}|VisionProDetectObject\\VisionProDetectObject.csproj|solutionrelative:visionprodetectobject\\views\\showresultimageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\obj\\x64\\Debug\\Views\\EditProgramView.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisionProDetectObject\\obj\\x64\\Debug\\Views\\EditProgramView.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\obj\\x64\\Debug\\Views\\ViewImageView.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisionProDetectObject\\obj\\x64\\Debug\\Views\\ViewImageView.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditProgramView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\EditProgramView.xaml.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Views\\EditProgramView.xaml.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\EditProgramView.xaml.cs",
+              "RelativeToolTip": "VisionProDetectObject\\Views\\EditProgramView.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:41:00.733Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClassCamera.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Camera\\ClassCamera.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Camera\\ClassCamera.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Camera\\ClassCamera.cs",
+              "RelativeToolTip": "VisionProDetectObject\\Camera\\ClassCamera.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:06:25.734Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModbusView.xaml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\ModbusView.xaml",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Views\\ModbusView.xaml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\ModbusView.xaml",
+              "RelativeToolTip": "VisionProDetectObject\\Views\\ModbusView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T09:39:51.856Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditProgramViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\ViewModels\\EditProgramViewModel.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\ViewModels\\EditProgramViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\ViewModels\\EditProgramViewModel.cs",
+              "RelativeToolTip": "VisionProDetectObject\\ViewModels\\EditProgramViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:41:41.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICamera.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\Camera\\ICamera.cs",
+              "RelativeDocumentMoniker": "Camera\\ICamera.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\Camera\\ICamera.cs",
+              "RelativeToolTip": "Camera\\ICamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:13:20.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraServiceGenTL.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\Camera\\CameraServiceGenTL.cs",
+              "RelativeDocumentMoniker": "Camera\\CameraServiceGenTL.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\Camera\\CameraServiceGenTL.cs",
+              "RelativeToolTip": "Camera\\CameraServiceGenTL.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIAxwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:16:28.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Views\\MainView.xaml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\MainView.xaml",
+              "RelativeToolTip": "VisionProDetectObject\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T04:53:43.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\App.xaml.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\App.xaml.cs",
+              "RelativeToolTip": "VisionProDetectObject\\App.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:11:48.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewImageView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\ViewImageView.xaml.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Views\\ViewImageView.xaml.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\ViewImageView.xaml.cs",
+              "RelativeToolTip": "VisionProDetectObject\\Views\\ViewImageView.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:07:11.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowResultImageView.xaml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\ShowResultImageView.xaml",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Views\\ShowResultImageView.xaml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\ShowResultImageView.xaml",
+              "RelativeToolTip": "VisionProDetectObject\\Views\\ShowResultImageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T04:35:57.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToolBlockService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\Camera\\ToolBlockService.cs",
+              "RelativeDocumentMoniker": "Camera\\ToolBlockService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\Camera\\ToolBlockService.cs",
+              "RelativeToolTip": "Camera\\ToolBlockService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:01:27.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewImageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\ViewModels\\ViewImageViewModel.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\ViewModels\\ViewImageViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\ViewModels\\ViewImageViewModel.cs",
+              "RelativeToolTip": "VisionProDetectObject\\ViewModels\\ViewImageViewModel.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAewGkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:13:51.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewImageView.xaml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\ViewImageView.xaml",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Views\\ViewImageView.xaml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\ViewImageView.xaml",
+              "RelativeToolTip": "VisionProDetectObject\\Views\\ViewImageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T02:09:12.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Views\\MainView.xaml.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\MainView.xaml.cs",
+              "RelativeToolTip": "VisionProDetectObject\\Views\\MainView.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA4wCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:22:08.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditProgramView.xaml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\EditProgramView.xaml",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Views\\EditProgramView.xaml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\EditProgramView.xaml",
+              "RelativeToolTip": "VisionProDetectObject\\Views\\EditProgramView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T04:47:17.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\App.config",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\App.config",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\App.config",
+              "RelativeToolTip": "VisionProDetectObject\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-20T03:13:22.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainView.g.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\obj\\x64\\Debug\\Views\\MainView.g.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\obj\\x64\\Debug\\Views\\MainView.g.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\obj\\x64\\Debug\\Views\\MainView.g.cs",
+              "RelativeToolTip": "VisionProDetectObject\\obj\\x64\\Debug\\Views\\MainView.g.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:09:11.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VisionProDetectObject",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\VisionProDetectObject.csproj",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\VisionProDetectObject.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\VisionProDetectObject.csproj",
+              "RelativeToolTip": "VisionProDetectObject\\VisionProDetectObject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-20T08:44:50.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ModbusDataEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Modbus\\ModbusDataEventArgs.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Modbus\\ModbusDataEventArgs.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Modbus\\ModbusDataEventArgs.cs",
+              "RelativeToolTip": "VisionProDetectObject\\Modbus\\ModbusDataEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:31:18.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "VisionProDetectObject\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:20:40.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClassToolBlockLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Camera\\Tool\\ClassToolBlockLoader.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Camera\\Tool\\ClassToolBlockLoader.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Camera\\Tool\\ClassToolBlockLoader.cs",
+              "RelativeToolTip": "VisionProDetectObject\\Camera\\Tool\\ClassToolBlockLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:19:17.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ModbusTCPClient.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Modbus\\ModbusTCPClient.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Modbus\\ModbusTCPClient.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Modbus\\ModbusTCPClient.cs",
+              "RelativeToolTip": "VisionProDetectObject\\Modbus\\ModbusTCPClient.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T02:27:53.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ModbusPolling.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Modbus\\ModbusPolling.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Modbus\\ModbusPolling.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Modbus\\ModbusPolling.cs",
+              "RelativeToolTip": "VisionProDetectObject\\Modbus\\ModbusPolling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:50:54.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MobusViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\ViewModels\\MobusViewModel.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\ViewModels\\MobusViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\ViewModels\\MobusViewModel.cs",
+              "RelativeToolTip": "VisionProDetectObject\\ViewModels\\MobusViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwDMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:00:39.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InternalRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\AppData\\Local\\SourceServer\\130ebdbee0c1d672f3711fa37f015c1d8d7cd132013c36dc4e614df60922cf4d\\src\\Registration\\InternalRegistration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\130ebdbee0c1d672f3711fa37f015c1d8d7cd132013c36dc4e614df60922cf4d\\src\\Registration\\InternalRegistration.cs",
+              "ToolTip": "C:\\Users\\Dell\\AppData\\Local\\SourceServer\\130ebdbee0c1d672f3711fa37f015c1d8d7cd132013c36dc4e614df60922cf4d\\src\\Registration\\InternalRegistration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\130ebdbee0c1d672f3711fa37f015c1d8d7cd132013c36dc4e614df60922cf4d\\src\\Registration\\InternalRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:47:28.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\Camera\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Camera\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\Camera\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Camera\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:34:14.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ClassCogdisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Camera\\Tool\\ClassCogdisplay.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Camera\\Tool\\ClassCogdisplay.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Camera\\Tool\\ClassCogdisplay.cs",
+              "RelativeToolTip": "VisionProDetectObject\\Camera\\Tool\\ClassCogdisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:43:15.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\Camera\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Camera\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\Camera\\Properties\\Resources.resx",
+              "RelativeToolTip": "Camera\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-19T03:34:22.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LOGO_IDEA_full_L.png - PNG [2365x2366, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Image\\LOGO_IDEA_full_L.png",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Image\\LOGO_IDEA_full_L.png",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Image\\LOGO_IDEA_full_L.png - PNG [2365x2366, 32 bit, PNG]",
+              "RelativeToolTip": "VisionProDetectObject\\Image\\LOGO_IDEA_full_L.png - PNG [2365x2366, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-14T07:05:01.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SaveImage.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Helper\\SaveImage.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Helper\\SaveImage.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Helper\\SaveImage.cs",
+              "RelativeToolTip": "VisionProDetectObject\\Helper\\SaveImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T01:21:33.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ModbusView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\ModbusView.xaml.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Views\\ModbusView.xaml.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\ModbusView.xaml.cs",
+              "RelativeToolTip": "VisionProDetectObject\\Views\\ModbusView.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:39:57.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ModbusClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\MobusTCP\\ModbusClientService.cs",
+              "RelativeDocumentMoniker": "MobusTCP\\ModbusClientService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\MobusTCP\\ModbusClientService.cs",
+              "RelativeToolTip": "MobusTCP\\ModbusClientService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:47:04.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\App.xaml",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\App.xaml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\App.xaml",
+              "RelativeToolTip": "VisionProDetectObject\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T07:07:54.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "modbusView.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\obj\\x64\\Debug\\Views\\modbusView.g.i.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\obj\\x64\\Debug\\Views\\modbusView.g.i.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\obj\\x64\\Debug\\Views\\modbusView.g.i.cs",
+              "RelativeToolTip": "VisionProDetectObject\\obj\\x64\\Debug\\Views\\modbusView.g.i.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswFkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:59:56.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EditProgramView.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\obj\\x64\\Debug\\Views\\EditProgramView.g.i.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\obj\\x64\\Debug\\Views\\EditProgramView.g.i.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\obj\\x64\\Debug\\Views\\EditProgramView.g.i.cs",
+              "RelativeToolTip": "VisionProDetectObject\\obj\\x64\\Debug\\Views\\EditProgramView.g.i.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAWwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:58:47.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "VisionProDetectObject\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:15:00.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ModbusDataEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\MobusTCP\\ModbusDataEventArgs.cs",
+              "RelativeDocumentMoniker": "MobusTCP\\ModbusDataEventArgs.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\MobusTCP\\ModbusDataEventArgs.cs",
+              "RelativeToolTip": "MobusTCP\\ModbusDataEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:51:53.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ViewImageView.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\obj\\x64\\Debug\\Views\\ViewImageView.g.i.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\obj\\x64\\Debug\\Views\\ViewImageView.g.i.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\obj\\x64\\Debug\\Views\\ViewImageView.g.i.cs",
+              "RelativeToolTip": "VisionProDetectObject\\obj\\x64\\Debug\\Views\\ViewImageView.g.i.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:01:13.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ShowResultImageView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\ShowResultImageView.xaml.cs",
+              "RelativeDocumentMoniker": "VisionProDetectObject\\Views\\ShowResultImageView.xaml.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\VisionProWPF\\VisionProDetectObject\\VisionProDetectObject\\Views\\ShowResultImageView.xaml.cs",
+              "RelativeToolTip": "VisionProDetectObject\\Views\\ShowResultImageView.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:36:45.141Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

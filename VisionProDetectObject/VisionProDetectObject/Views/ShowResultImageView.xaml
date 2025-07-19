@@ -1,0 +1,14 @@
+﻿<Window x:Class="VisionProDetectObject.Views.ShowResultImageView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VisionProDetectObject.Views"
+        mc:Ignorable="d"
+        xmlns:tool="clr-namespace:VisionProDetectObject.Camera.Tool"
+        Title="ShowResultImageView" Height="450" Width="800">
+    <Grid>
+        <!--<tool:ClassCogdisplay x:Name="Display"></tool:ClassCogdisplay>-->
+        <Image x:Name="Display"></Image>
+    </Grid>
+</Window>

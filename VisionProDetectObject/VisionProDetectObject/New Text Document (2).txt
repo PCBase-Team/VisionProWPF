@@ -1,0 +1,2 @@
+IP:192.168.10.210
+trigger Data[6] start data[0]
